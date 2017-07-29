@@ -1,5 +1,6 @@
 ﻿Configuration.xml-->Configuration.xml
 Documents\Документ1.xml-->Documents\Документ1.xml
+Documents\Документ2.xml-->Documents\Документ2.xml
 Languages\Русский.xml-->Languages\Русский.xml
 Roles\Роль1.xml-->Roles\Роль1.xml
 Roles\Роль1\Ext\Rights.xml-->Roles\Роль1\Ext\Rights.xml
