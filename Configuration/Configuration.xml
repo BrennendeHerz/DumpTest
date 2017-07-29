@@ -115,6 +115,8 @@
 			<Language>Русский</Language>
 			<Role>Роль1</Role>
 			<Document>Документ1</Document>
+			<Document>Документ2</Document>
+			<Document>Документ3</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
