@@ -117,7 +117,7 @@
 			<Document>Документ1</Document>
 			<Document>Документ2</Document>
 			<Document>Документ3</Document>
-			<Document>Документ4</Document>
+			<Document>Документ_</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
