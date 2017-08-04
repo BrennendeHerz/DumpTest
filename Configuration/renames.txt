@@ -3,6 +3,7 @@ Documents\Документ1.xml-->Documents\Документ1.xml
 Documents\Документ2.xml-->Documents\Документ2.xml
 Documents\Документ3.xml-->Documents\Документ3.xml
 Documents\Документ4.xml-->Documents\Документ4.xml
+Documents\Документ5.xml-->Documents\Документ5.xml
 Documents\Документ_.xml-->Documents\Документ_.xml
 Languages\Русский.xml-->Languages\Русский.xml
 Roles\Роль1.xml-->Roles\Роль1.xml
