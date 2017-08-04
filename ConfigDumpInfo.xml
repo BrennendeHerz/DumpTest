@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="233c752e-cb64-4dfc-89d2-1e1f3edd148e" configVersion="1a7ee9e300f28d4d9d25b3c63cc4785e00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="233c752e-cb64-4dfc-89d2-1e1f3edd148e" configVersion="c1cd49471f2fcd40aca34888b8c331f100000000"/>
 		<Metadata name="Document.Документ1" id="94e35d91-436c-4b30-aabe-943e12cfee17" configVersion="56a71f1e38113f49804b7e8babca853c00000000">
 			<Metadata name="Document.Документ1.Attribute.Реквизит3" id="018f4e7e-b386-4aad-9289-bbf0b7a3eff6"/>
 			<Metadata name="Document.Документ1.Attribute.Реквизит2" id="474e9d56-e818-4263-9a02-880fd6321996"/>
@@ -9,6 +9,7 @@
 		</Metadata>
 		<Metadata name="Document.Документ2" id="d74199e4-8486-4d26-bd39-3b18fa086e4b" configVersion="35ad4cd003cf2e42a73b10441c382a8c00000000"/>
 		<Metadata name="Document.Документ3" id="0ad3d250-b181-4c00-85d3-185841c11abc" configVersion="c06053a5c3112649bdff732672a17bcb00000000"/>
+		<Metadata name="Document.Документ4" id="be73e51a-8446-48bb-929f-9169d8c3dc7d" configVersion="c54ca2c8a956f546a0636ef2cfe87c7c00000000"/>
 		<Metadata name="Document.Документ_" id="a1fe21f3-421b-4107-bda9-1391f07839e9" configVersion="d7cb57309d1b04419ad96ffb683bbdf200000000"/>
 		<Metadata name="Language.Русский" id="ceb60d81-7167-4dff-bd7a-cfc5fcc54113" configVersion="5d626a27b0002948a00a92ac2b993e6d00000000"/>
 		<Metadata name="Role.Роль1" id="f79f40f2-fd33-463f-a6bf-2da8f75182e6" configVersion="99f2c1920bb7c7409c6ba5bb63ff9d8e00000000"/>
